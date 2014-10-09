@@ -1,0 +1,44 @@
+Introdução ao Go
+
+Por Vinicius Pacheco
+@ViniciusPach
+http://about.me/viniciusfeitosa
+
+* Hey ho let's go
+
+* Montando Ambiente
+
+$ brew install go
+$ export GOPATH=$HOME/seu diretório(workspace)
+$ export GOBIN=$GOPATH/bin
+$ export PATH=$PATH:$GOBIN
+
+obs: Dentro do diretório escolhido como workspace deve conter os diretórios bin, src, pkg
+
+* Padrão de um arquivo Go
+
+Os arquivos de golang tem terminação .go
+
+.play basico/hello.go
+
+* Padrão de um arquivo Go
+
+.play basico/hello2.go
+
+* Tipos
+
+* Números inteiros
+
+- uint8, uint16, uint32, uint64
+- int8, int16, int32, int64
+
+* Números Decimais
+
+- float32, float64
+- complex64, complex128
+
+* Strings
+
+- "Hello World", `Hello World`
+- \n (nova linha) \t (um tab)
+- Possui função len() e busca por posição string[1]
