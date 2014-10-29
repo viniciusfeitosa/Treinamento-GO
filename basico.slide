@@ -42,3 +42,49 @@ Os arquivos de golang tem terminação .go
 - "Hello World", `Hello World`
 - \n (nova linha) \t (um tab)
 - Possui função len() e busca por posição string[1]
+
+* Operadores Booleanos
+
+- && e lógico
+- || ou lógico
+- ! negação
+
+* Variáveis
+
+.play basico/variaveis.go
+
+* Variáveis - Declaração Múltipla
+
+.play basico/variaveis_multipla.go
+
+* Constantes
+
+.play basico/constantes.go
+
+* Controle de Estrutura - For 1
+
+.play basico/for1.go
+
+* Controle de Estrutura - For 2
+
+.play basico/for2.go
+
+* Controle de Estrutura - For 3
+
+.play basico/for3.go
+
+* Controle de Estrutura - For 4
+
+.play basico/for4.go
+
+* Controle de Estrutura - For 5
+
+.play basico/for5.go
+
+* Controle de Estrutura -  If
+
+.play basico/if.go
+
+* Controle de Estrutura -  Switch
+
+.play basico/switch.go
