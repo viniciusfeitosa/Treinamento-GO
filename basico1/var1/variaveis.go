@@ -13,6 +13,10 @@ func main() {
 	fmt.Println(y)
 
 	// Tipagem implicita
+	var n = "Olá Mundo"
+	fmt.Println(n)
+
+	// Tipagem implicita dentro de uma função
 	v := "Holla "
 	z := "que tal"
 	v += z // concatenando strings

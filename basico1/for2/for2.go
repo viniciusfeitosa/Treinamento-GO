@@ -9,4 +9,8 @@ func main() {
 
 	}
 
+	for i := 14; i <= 20; i++ {
+		fmt.Println(i)
+
+	}
 }

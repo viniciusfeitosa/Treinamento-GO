@@ -19,11 +19,11 @@ obs: Dentro do diretório escolhido como workspace deve conter os diretórios bi
 
 Os arquivos de golang tem terminação .go
 
-.play basico/hello.go
+.play basico1/hello1/hello.go
 
 * Padrão de um arquivo Go
 
-.play basico/hello2.go
+.play basico1/hello2/hello2.go
 
 * Tipos
 
@@ -51,40 +51,44 @@ Os arquivos de golang tem terminação .go
 
 * Variáveis
 
-.play basico/variaveis.go
+.play basico1/var1/variaveis.go
 
 * Variáveis - Declaração Múltipla
 
-.play basico/variaveis_multipla.go
+.play basico1/var2/variaveis_multipla.go
 
 * Constantes
 
-.play basico/constantes.go
+.play basico1/constantes/constantes.go
 
 * Controle de Estrutura - For 1
 
-.play basico/for1.go
+.play basico1/for1/for1.go
 
 * Controle de Estrutura - For 2
 
-.play basico/for2.go
+.play basico1/for2/for2.go
 
 * Controle de Estrutura - For 3
 
-.play basico/for3.go
+.play basico1/for3/for3.go
 
 * Controle de Estrutura - For 4
 
-.play basico/for4.go
+.play basico1/for4/for4.go
 
 * Controle de Estrutura - For 5
 
-.play basico/for5.go
+.play basico1/for5/for5.go
 
 * Controle de Estrutura -  If
 
-.play basico/if.go
+.play basico1/if/if.go
 
-* Controle de Estrutura -  Switch
+* Controle de Estrutura -  Switch 1
 
-.play basico/switch.go
+.play basico1/switch1/switch.go
+
+* Controle de Estrutura -  Switch 2
+
+.play basico1/switch2/switch.go
