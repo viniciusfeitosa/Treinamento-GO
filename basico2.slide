@@ -1,0 +1,63 @@
+Introdução ao Go
+
+Por Vinicius Pacheco
+@ViniciusPach
+http://about.me/viniciusfeitosa
+
+* Hey ho let's go again
+
+* Arrays
+
+.play basico2/array1/main.go
+
+* Arrays
+
+.play basico2/array2/main.go
+
+* Slices
+
+.play basico2/slice1/main.go
+
+* Slices
+
+.play basico2/slice2/main.go
+
+* Slices
+
+.play basico2/slice3/main.go
+
+* Maps
+
+.play basico2/map1/main.go
+
+* Maps
+
+.play basico2/map2/main.go
+
+* Range
+
+.play basico2/range/main.go
+
+* Funcs
+
+.play basico2/func1/main.go
+
+* Funcs
+
+.play basico2/func2/main.go
+
+* Funcs
+
+.play basico2/func3/main.go
+
+* Funcs
+
+.play basico2/func4/main.go
+
+* Closure
+
+.play basico2/closure/main.go
+
+* Recursion
+
+.play basico2/recursion/main.go
