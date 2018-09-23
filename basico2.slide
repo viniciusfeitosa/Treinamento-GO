@@ -61,3 +61,7 @@ http://about.me/viniciusfeitosa
 * Recursion
 
 .play basico2/recursion/main.go
+
+* Pointers
+
+.play basico2/pointer/main.go
