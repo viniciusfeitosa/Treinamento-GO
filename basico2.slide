@@ -65,3 +65,15 @@ http://about.me/viniciusfeitosa
 * Pointers
 
 .play basico2/pointer/main.go
+
+* Structs
+
+.play basico2/struct1/main.go
+
+* Structs
+
+.play basico2/struct2/main.go
+
+* Structs
+
+.play basico2/struct3/main.go
