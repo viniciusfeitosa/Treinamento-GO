@@ -77,3 +77,7 @@ http://about.me/viniciusfeitosa
 * Structs
 
 .play basico2/struct3/main.go
+
+* Interfaces
+
+.play basico2/interface1/main.go
