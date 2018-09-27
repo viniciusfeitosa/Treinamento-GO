@@ -1,0 +1,29 @@
+Introdução ao Go
+
+Por Vinicius Pacheco
+@ViniciusPach
+http://about.me/viniciusfeitosa
+
+* Hey ho let's go again 2
+
+* Recaptulando (structs e interfaces)
+
+* Internal Structs
+
+.play basico3/internal/main.go
+
+* Demo
+
+* Composition (Structs)
+
+.play basico3/comp/main.go
+
+* Demo
+
+* Tests
+
+.play basico3/tests/main.go
+
+* Errors
+
+.play basico3/errors/main.go
