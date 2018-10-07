@@ -1,0 +1,35 @@
+Introdução ao Go
+
+Por Vinicius Pacheco
+@ViniciusPach
+http://about.me/viniciusfeitosa
+
+* Hey ho let's go (advanced 1)
+
+* Goroutines
+
+.play avancado1/goroutine1/main.go
+
+* Channels
+
+.play avancado1/channel1/main.go
+
+* Channels (buffering)
+
+.play avancado1/channel2/main.go
+
+* Channels (Sync)
+
+.play avancado1/channel3/main.go
+
+* Channels (Directions)
+
+.play avancado1/channel4/main.go
+
+* Channels (Select)
+
+.play avancado1/channel5/main.go
+
+* Timeout
+
+.play avancado1/timeout/main.go
